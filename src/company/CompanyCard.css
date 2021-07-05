@@ -1,0 +1,24 @@
+.CompanyCard{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+
+.companyJob{
+    margin-top: 1rem;
+}
+
+.info{
+    width: 75%;
+}
+
+.infoWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.jobTitle{
+    margin: 1rem 0;
+}

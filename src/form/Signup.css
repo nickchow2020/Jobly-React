@@ -1,0 +1,14 @@
+.SignupWrapper{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SignupForm{
+    width: 100%;
+}
